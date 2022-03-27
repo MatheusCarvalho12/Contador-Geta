@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 125vh;
+    background-color: #fff;
+    color: black;
+    display: grid;
+    place-items: center;
+}
+
+.c1 {
+    background: blanchedalmond;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+}
+
+.c2 {
+    background: blanchedalmond;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+}
+
+.c3 {
+    background: blanchedalmond;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+}
+
+p {
+    font-size: 100px;
+}
+
+.re {
+    height: 35px;
+    width: 110x;
+    font: arial;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 700;
+    background: rgb(30, 161, 161);
+    color: black;
+    box-shadow: 0 5px 0 rgb(16, 104, 104);
+}
+.re:hover {
+    background: rgb(16, 104, 104);
+    color: black;
+    box-shadow: 0 5px 0 rgb(8, 66, 66);
+}
+.re:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+
+.btn {
+    height: 35px;
+    width: 110px;
+    margin: 10px;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 700;
+    background: rgb(30, 161, 161);
+    color: black;
+    box-shadow: 0 5px 0 rgb(16, 104, 104);
+}
+.btn:hover {
+    background: rgb(16, 104, 104);
+    color: black;
+    box-shadow: 0 5px 0 rgb(8, 66, 66);
+}
+.btn:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+img {
+    width: 440px;
+    height: 300px;
+    position: fixed;
+    left: 50px;
+    top: 10px;
+}
