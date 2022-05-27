@@ -1,6 +1,6 @@
 # ContadoresGeta
 
-Projeto utilizado para entrar no Grupo de Tecnologia Assistiva (GETA) 
+Projeto utilizado para entrar no Grupo de Estudo de Tecnologia Assistiva (GETA) 
 
 
 Três contadores individuais de escolha do usuario:
