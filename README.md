@@ -1,4 +1,4 @@
-# Contadorgeta
+# ContadoresGeta
 
 Projeto utilizado para entrar no Grupo de Tecnologia Assistiva (GETA) 
 
